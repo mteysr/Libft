@@ -1,0 +1,2 @@
+# Libft
+my own library
